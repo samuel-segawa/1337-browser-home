@@ -1,0 +1,129 @@
+html, body {
+    font-family: 'Jura', sans-serif;
+    font-size: 0.9rem;
+}
+
+.n-txt-dark1 {
+    color: #2E3440;
+}
+
+.n-txt-dark2 {
+    color: #3B4252;
+}
+
+.n-txt-dark3 {
+    color: #434C5E;
+}
+
+.n-txt-dark4 {
+    color: #4C566A;
+}
+
+.n-txt-light1 {
+    color: #D8DEE9;
+}
+
+.n-txt-light2 {
+    color: #E5E9F0;
+}
+
+.n-txt-light3 {
+    color: #ECEFF4;
+}
+
+.n-txt-danger {
+    color: #BF616A;
+}
+
+.n-txt-warn {
+    color: #D08770;
+}
+
+.n-txt-yellow {
+    color: #EBCB8B;
+}
+
+.n-txt-green {
+    color: #A3BE8C;
+}
+
+.n-txt-purp {
+    color: #B48EAD;
+}
+
+.n-bg-dark1 {
+    background: #2E3440;
+}
+
+.n-bg-dark2 {
+    background: #3B4252;
+}
+
+.n-bg-dark3 {
+    background: #434C5E;
+}
+
+.n-bg-dark4 {
+    background: #4C566A;
+}
+
+.n-bg-light1 {
+    background: #D8DEE9;
+}
+
+.n-bg-light2 {
+    background: #E5E9F0;
+}
+
+.n-bg-light3 {
+    background: #ECEFF4;
+}
+
+.n-bg-danger {
+    background: #BF616A;
+}
+
+.n-bg-warn {
+    background: #D08770;
+}
+
+.n-bg-yellow {
+    background: #EBCB8B;
+}
+
+.n-bg-green {
+    background: #A3BE8C;
+}
+
+.n-bg-purp {
+    background: #B48EAD;
+}
+
+.link-section {
+    border: 1px solid #3B4252;
+    margin: 1rem;
+}
+
+.list-group-item {
+    background-color: #2E3440;
+    border: 1px solid #3B4252;
+}
+
+.fas {
+    font-size: 16px;
+}
+
+a {
+    color: #D8DEE9;
+    text-decoration: none;
+    transition: 250ms linear;
+}
+
+a:hover {
+    color: #D08770;
+}
+
+
+.icon-4 {
+    font-size: 22px;
+}
